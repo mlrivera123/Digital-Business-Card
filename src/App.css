@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body{
+    margin: 0;
+    background-color: #1A1B21;
+}
+
+p{
+    margin: 0;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h2{
+    margin: 0;
+}
+.info--headshot{
+    width: 100%;
+    height: auto;
+}
+
+.info--name{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    margin-bottom: 5px;
+}
+
+.info--job{
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+    color: #F3BF99;
+    margin-bottom: 10px;
+}
+
+.info--website{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 150%;
+    text-align: center;
+    color: #F5F5F5;
+    margin-top: 0px;
+
+}
+
+.info--email{
+    width: 150px;
+    height: 40px;
+    background: white;
+    color: black;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    margin-right: 20px;
+}
+
+.info--linkedIn{
+    width: 150px;
+    height: 40px;
+    background: #5093E2;
+    color: white;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 16px;
+    border: 1px solid #5093E2;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+.info--buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.about--header{
+    color: white;
+    font-family: 'inter';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+    margin-left: 10%;
+}
+
+.about--p{
+    color: #DCDCDC;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.interests--header{
+    color: white;
+    font-family: 'inter';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 5px;
+    margin-left: 10%;
+}
+
+.interests--p{
+    color: #DCDCDC;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 150%;
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+
+.footer{
+    width: 100%;
+    height: 100px;
+    color: white;
+    bottom: 0;
+    background-color: #161619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer > i{
+    font-size: 50px;
+    color: #918E9B;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
