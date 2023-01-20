@@ -9,8 +9,8 @@ export default function Info(){
         <h2 className="info--job">Software Developer</h2>
         <h3 className="info--website">Max-Rivera.com</h3>
         <div className="info--buttons">
-        <button className="info--email"><i class="fa-solid fa-envelope"></i> Email</button>
-        <button className="info--linkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</button>
+        <a href = "mailto: mlrivera@bu.edu"><button className="info--email"><i class="fa-solid fa-envelope"></i> Email</button></a>
+        <a href="https://www.linkedin.com/in/max-rivera-004528231/"><button className="info--linkedIn"><i class="fa-brands fa-linkedin"></i> LinkedIn</button></a>
         </div>
         </section>
     )
