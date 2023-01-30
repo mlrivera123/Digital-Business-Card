@@ -19,7 +19,7 @@ h2{
 .info--headshot{
     display: flex;
     height: auto;
-    max-width: 500px;
+    max-width: 400px;
     margin-left: auto;
     margin-right: auto;
 }
